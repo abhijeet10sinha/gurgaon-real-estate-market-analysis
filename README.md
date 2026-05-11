@@ -137,85 +137,85 @@ The project includes:
 
 ## Top Localities by Rate per Sqft
 
-![Locality Rate](../images/top10_locality_rate.png)
+![Locality Rate](images/top10_locality_rate.png)
 
 ---
 
 ## Correlation Heatmap
 
-![Heatmap](../images/correlation_heatmap.png)
+![Heatmap](images/correlation_heatmap.png)
 
 ---
 
 ## Area vs Property Price
 
-![Area vs Price](../images/area_vs_price_scatter.png)
+![Area vs Price](images/area_vs_price_scatter.png)
 
 ---
 
 ## Area vs Rate per Sqft
 
-![Area vs Rate](../images/area_vs_rate_per_sqft.png)
+![Area vs Rate](images/area_vs_rate_per_sqft.png)
 
 ---
 
 ## Average Price by BHK
 
-![BHK Analysis](../images/avg_price_by_bhk.png)
+![BHK Analysis](images/avg_price_by_bhk.png)
 
 ---
 
 ## Average Price by Property Type
 
-![Property Type](../images/avg_price_by_property_type.png)
+![Property Type](images/avg_price_by_property_type.png)
 
 ---
 
 ## Builder Pricing Analysis
 
-![Builder Pricing](../images/top_builders_avg_price.png)
+![Builder Pricing](images/top_builders_avg_price.png)
 
 ---
 
 ## Property Price Distribution
 
-![Distribution](../images/property_price_distribution.png)
+![Distribution](images/property_price_distribution.png)
 
 ---
 
 ## Property Price Outliers
 
-![Outliers](../images/property_price_outliers.png)
+![Outliers](images/property_price_outliers.png)
 
 ---
 
 ## Median Price by RERA Approval
 
-![RERA Analysis](../images/median_price_by_rera.png)
+![RERA Analysis](images/median_price_by_rera.png)
 
 ---
 
 ## Median Price by Property Status
 
-![Property Status](../images/median_price_by_status.png)
+![Property Status](images/median_price_by_status.png)
 
 ---
 
 ## Top Property Type Price
 
-![Top Property Type](../images/top_property_type_price.png)
+![Top Property Type](images/top_property_type_price.png)
 
 ---
 
 ## Top Localities by Listings
 
-![Top Listings](../images/top_localities_by_listings.png)
+![Top Listings](images/top_localities_by_listings.png)
 
 ---
 
 ## Top 10 Builders Average Price
 
-![Top Builders](../images/top10_builders_avg_price.png)
+![Top Builders](images/top10_builders_avg_price.png)
 
 ---
 
