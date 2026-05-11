@@ -226,7 +226,7 @@ The project includes:
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](images/powerbi_dashboard.PNG)
 
 ## Key Insights
 
