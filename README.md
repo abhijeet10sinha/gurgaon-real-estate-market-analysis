@@ -131,7 +131,7 @@ The project includes:
 
 ## Top Localities by Average Price
 
-![Top Localities](../images/top10_locality_prices.png)
+![Top Localities](images/top10_locality_prices.png)
 
 ---
 
