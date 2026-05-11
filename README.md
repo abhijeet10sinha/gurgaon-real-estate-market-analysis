@@ -80,19 +80,24 @@ The dataset contains residential property listings from Gurgaon including:
 │   ├── area_vs_price_scatter.png
 │   ├── area_vs_rate_per_sqft.png
 │   ├── avg_price_by_bhk.png
-│   ├── avg_price_by_property_type.png
 │   ├── correlation_heatmap.png
 │   ├── median_price_by_rera.png
 │   ├── median_price_by_status.png
 │   ├── property_price_distribution.png
 │   ├── property_price_outliers.png
+│   ├── top_builders_avg_price.png
+│   ├── top_localities_by_listings.png
+│   ├── top_property_type_price.png
 │   ├── top10_builders_avg_price.png
 │   ├── top10_locality_prices.png
-│   └── top10_locality_rate.png
+│   ├── top10_locality_rate.png
+│   └── powerbi_dashboard.png
 │
 ├── notebooks/
-│   └── gurgaon_real_estate_analysis.ipynb
+│   ├── gurgaon_real_estate_analysis.ipynb
+│   └── gurgaon_real_estate_analysis.html
 │
+├── Gurgaon_Real_Estate_Dashboard.pbix
 └── README.md
 ```
 
@@ -218,6 +223,10 @@ The project includes:
 ![Top Builders](images/top10_builders_avg_price.png)
 
 ---
+
+## Power BI Dashboard
+
+![Power BI Dashboard](images/powerbi_dashboard.png)
 
 ## Key Insights
 
