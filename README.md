@@ -228,6 +228,12 @@ The project includes:
 
 ![Power BI Dashboard](images/powerbi_dashboard.PNG)
 
+## LinkedIn Project Post
+
+You can view my LinkedIn project post here:
+
+[View LinkedIn Post](https://www.linkedin.com/posts/abhijeet-kumar-sinha-97b6a1356_dataanalytics-powerbi-python-share-7459988351358771201-lL4P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi8Hi8BH-psYWKJaD5dM4K4aM5iOydql1A)
+
 ## Key Insights
 
 - Premium localities command significantly higher property prices.
