@@ -170,12 +170,6 @@ The project includes:
 
 ---
 
-## Average Price by Property Type
-
-![Property Type](images/avg_price_by_property_type.png)
-
----
-
 ## Builder Pricing Analysis
 
 ![Builder Pricing](images/top_builders_avg_price.png)
